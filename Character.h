@@ -6,7 +6,7 @@
 #include <fstream>
 #include <list>
 using namespace std; 
-
+/*Simple header file defining what a character is with some varriables. With some getters and setters*/
 class Character {
     private:
     string name;
